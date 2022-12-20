@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Springboot-backend/Springboot-backend.iml" filepath="$PROJECT_DIR$/Springboot-backend/Springboot-backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/s5-projet-rojo-gestionflotte.iml" filepath="$PROJECT_DIR$/.idea/s5-projet-rojo-gestionflotte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-backend.iml" filepath="$PROJECT_DIR$/Springboot-backend.iml" />
     </modules>
   </component>
 </project>
