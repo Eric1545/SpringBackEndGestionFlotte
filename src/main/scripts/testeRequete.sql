@@ -1,0 +1,1 @@
+select * from v_assurance_avion where date_fin=;
