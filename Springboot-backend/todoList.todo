@@ -1,0 +1,22 @@
+1 - Liste des avions
+    Creer :
+        Spring :
+            AvionController
+            Avion(Model)
+            AvionRepository
+        Ionic :
+            Liste avion
+
+Login:
+    -login
+
+2 - Détail de l’avion et le kilométrage
+    - fonctionalite: login
+
+3- Assurance:
+    - list des avions par date expirations assurances
+        (expire dans X mois)
+        input X
+        alaina ny date androany de ampina anle X ny mois ny -> de mahazo date
+        requete : select * from v_assurance_avion where date_fin<=date;
+        select * from v_assurance_avion where date_fin<='2023-02-01' order by date_fin asc;
